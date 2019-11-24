@@ -1,2 +1,2 @@
-*.ibc
-*.o
+backend/node_modules
+backend/dist
